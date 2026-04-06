@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 export function FloatingTelegram() {
   return (
     <motion.a
-      href="https://t.me/rayhan_md4"
+      href="https://t.me/bot_father"
       target="_blank"
       rel="noopener noreferrer"
       initial={{ scale: 0, opacity: 0 }}
