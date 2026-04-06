@@ -440,8 +440,10 @@ export const getChannels1500 = () => {
     "200": { name: "ACTRESS HUB - chat group", link: "https://t.me/actressHUBing" },
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
-    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping",
-      "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
+    "203": {
+      name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping"
+    },
+    "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
     "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
     "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
     "207": { name: "BENGALI MOM LOVER 💋", link: "https://t.me/+9-1fM6mg-8oxYjFl" },
@@ -452,7 +454,6 @@ export const getChannels1500 = () => {
     "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
     "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
     "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
-     },
     // Add more here manually
   };
   return Object.values(data);
@@ -662,7 +663,9 @@ export const getChannels2500 = () => {
     "200": { name: "ACTRESS HUB - chat group", link: "https://t.me/actressHUBing" },
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
-    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping",
+    "203": {
+      name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping"
+    },
     "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
     "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
     "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
@@ -674,7 +677,6 @@ export const getChannels2500 = () => {
     "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
     "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
     "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
-    },
     // Add more here manually
   };
   return Object.values(data);
@@ -884,7 +886,7 @@ export const getChannels5000 = () => {
     "200": { name: "ACTRESS HUB - chat group", link: "https://t.me/actressHUBing" },
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
-    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping",
+    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping" },
     "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
     "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
     "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
@@ -896,11 +898,12 @@ export const getChannels5000 = () => {
     "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
     "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
     "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
-    },
-    // Add more here manually
   };
+  // Add more here manually
   return Object.values(data);
 };
+
+
 
 export const SAMPLE_CHANNELS: Record<string, () => TelegramChannel[]> = {
   "1000": getChannels1000,
