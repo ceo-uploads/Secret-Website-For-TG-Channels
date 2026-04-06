@@ -220,6 +220,17 @@ export const getChannels1000 = () => {
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
     "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping" },
+    "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
+    "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
+    "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
+    "207": { name: "BENGALI MOM LOVER 💋", link: "https://t.me/+9-1fM6mg-8oxYjFl" },
+    "208": { name: "কল বয় সার্ভিস 2.0", link: "https://t.me/arav378" },
+    "209": { name: "ꜱᴇx ɢʀᴏᴜᴘ ʙᴅ", link: "https://t.me/+ihF_uvvY7i05ZDU1" },
+    "210": { name: "naya Bangladeshi xxx videos 👙", link: "https://t.me/naya_bangladeshi" },
+    "211": { name: "BangladeshiMouni roy xxx videos", link: "https://t.me/mx_player_website_netpal_bot" },
+    "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
+    "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
+    "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
     // Add more here manually
   };
   return Object.values(data);
@@ -429,7 +440,19 @@ export const getChannels1500 = () => {
     "200": { name: "ACTRESS HUB - chat group", link: "https://t.me/actressHUBing" },
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
-    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping" },
+    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping",
+      "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
+    "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
+    "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
+    "207": { name: "BENGALI MOM LOVER 💋", link: "https://t.me/+9-1fM6mg-8oxYjFl" },
+    "208": { name: "কল বয় সার্ভিস 2.0", link: "https://t.me/arav378" },
+    "209": { name: "ꜱᴇx ɢʀᴏᴜᴘ ʙᴅ", link: "https://t.me/+ihF_uvvY7i05ZDU1" },
+    "210": { name: "naya Bangladeshi xxx videos 👙", link: "https://t.me/naya_bangladeshi" },
+    "211": { name: "BangladeshiMouni roy xxx videos", link: "https://t.me/mx_player_website_netpal_bot" },
+    "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
+    "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
+    "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
+     },
     // Add more here manually
   };
   return Object.values(data);
@@ -639,7 +662,19 @@ export const getChannels2500 = () => {
     "200": { name: "ACTRESS HUB - chat group", link: "https://t.me/actressHUBing" },
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
-    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping" },
+    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping",
+    "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
+    "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
+    "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
+    "207": { name: "BENGALI MOM LOVER 💋", link: "https://t.me/+9-1fM6mg-8oxYjFl" },
+    "208": { name: "কল বয় সার্ভিস 2.0", link: "https://t.me/arav378" },
+    "209": { name: "ꜱᴇx ɢʀᴏᴜᴘ ʙᴅ", link: "https://t.me/+ihF_uvvY7i05ZDU1" },
+    "210": { name: "naya Bangladeshi xxx videos 👙", link: "https://t.me/naya_bangladeshi" },
+    "211": { name: "BangladeshiMouni roy xxx videos", link: "https://t.me/mx_player_website_netpal_bot" },
+    "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
+    "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
+    "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
+    },
     // Add more here manually
   };
   return Object.values(data);
@@ -849,7 +884,19 @@ export const getChannels5000 = () => {
     "200": { name: "ACTRESS HUB - chat group", link: "https://t.me/actressHUBing" },
     "201": { name: "WIFE SWAPPING ✨", link: "https://t.me/bullsforcuxks" },
     "202": { name: "Sec sex", link: "https://t.me/joinchat/Cm1PP8vLc-k3Mjk9" },
-    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping" },
+    "203": { name: "Punjab Haryana wife swapping", link: "https://t.me/punjabharyanawifeswaping",
+      "204": { name: "Bangladeshi 18+", link: "https://t.me/Bangladeshi_18_x" },
+    "205": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
+    "206": { name: "Bangladeshi Adult Xxx", link: "https://t.me/engkishkha" },
+    "207": { name: "BENGALI MOM LOVER 💋", link: "https://t.me/+9-1fM6mg-8oxYjFl" },
+    "208": { name: "কল বয় সার্ভিস 2.0", link: "https://t.me/arav378" },
+    "209": { name: "ꜱᴇx ɢʀᴏᴜᴘ ʙᴅ", link: "https://t.me/+ihF_uvvY7i05ZDU1" },
+    "210": { name: "naya Bangladeshi xxx videos 👙", link: "https://t.me/naya_bangladeshi" },
+    "211": { name: "BangladeshiMouni roy xxx videos", link: "https://t.me/mx_player_website_netpal_bot" },
+    "212": { name: "Bangladeshi girl rape videos", link: "Bangladeshi girl rape videos" },
+    "213": { name: "Bangladeshi sexvideo🥵", link: "https://t.me/xxxvideo_pronvideo_adultvideo_x" },
+    "214": { name: "XXX VIDEOS BANGLADESH 💦🥒🩱", link: "https://t.me/wwwxxxxncom" },
+    },
     // Add more here manually
   };
   return Object.values(data);
