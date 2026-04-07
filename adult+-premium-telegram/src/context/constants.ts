@@ -4140,6 +4140,7 @@ export const getChannels5000 = () => {
 
 export const SAMPLE_CHANNELS: Record<string, () => TelegramChannel[]> = {
   "Demo": getDemoChannels,
+  "Trial":  getTrialChannels,
   "1000": getChannels1000,
   "1500": getChannels1500,
   "2500": getChannels2500,
