@@ -12,8 +12,57 @@ export const PACKAGES: Package[] = [
   { id: "3-W1", name: "Package 3-W1 (2500 Channels)", channels: 2500, priceBDT: 2500, durationDays: 7 },
   { id: "4-W1", name: "Package 4-W1 (5000 Channels)", channels: 5000, priceBDT: 4000, durationDays: 7 },
   // Lifetime
-  { id: "Lifetime", name: "Package Lifetime (5000 Channels)", channels: 5000, priceBDT: 122000, priceUSD: 1000, durationDays: 36500 },
+  { id: "Lifetime", name: "Package Lifetime (5000 Channels)", channels: 5000, priceBDT: 122000, priceUSD: 1000, durationDays: 365000 },
+  // Demo 
+  { id: "Demo", name:"Package - Demo", channels: 15, priceBDT: 10, durationDays: 365000},
+  // Trial
+  { id: "Trial", name:"Package - Trial", channels: 15, priceBDT: 10, durationDays: 1},
+
 ];
+
+export const  getDemoChannels = () => {
+  const data ={
+    "1": { name: "MYLF", link: "https://t.me/mylfed" },
+    "2": { name: "explicit_scenes", link: "https://telegram.me/explicit_scenes" },
+    "3": { name: "Explicit archive", link: "https://telegram.me/joinchat/AAAAAEQRBwcHqlrq977gkg" },
+    "4": { name: "Double Penetration", link: "https://telegram.me/joinchat/COmq5d2L148zNjY0" },
+    "5": { name: "Beautiful Girls", link: "https://telegram.me/b_babes" },
+    "6": { name: "Naughty_America_premiumz", link: "https://telegram.me/Naughty_America_premiumz" },
+    "7": { name: "Delhi sex chat", link: "https://t.me/delhincrcucck" },
+    "8": { name: "𝙄𝙉𝘿𝙄𝘼𝙉 WIFE 𝙎𝙒𝘼𝙋𝙋𝙄𝙉𝙂 Chats", link: "https://t.me/real_swapping_wife_couple" },
+    "9": { name: "Gujarati Wife - Sex Chatting Group", link: "https://t.me/Gujarat_wife_swapping" },
+    "10": { name: "Desi girls- New + Active", link: "https://t.me/desisexygirl67" },
+    "11": { name: "Desi hot 🥵 video - Private VIP", link: "https://t.me/joinchat/xHC38ij5eyEyNjE9" },
+    "12": { name: "Reena Babhi 💋💋 - Private VIP", link: "https://t.me/joinchat/H4SqJZ8l3r9iNzc9" },
+    "13": { name: "Kannada chatting group", link: "https://t.me/kannada_chatting_group4" },
+    "14": { name: "Desi Village girls - Private VIP", link: "https://t.me/joinchat/0siPFAlpU6EyY2Nl" },
+    "15": { name: "HOT GIRLS 🫣", link: "https://t.me/girls_group_world" },
+    "16": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
+  };
+  return Object.values(data);
+};
+
+export const  getTrialChannels = () => {
+  const data ={
+    "1": { name: "MYLF", link: "https://t.me/mylfed" },
+    "2": { name: "explicit_scenes", link: "https://telegram.me/explicit_scenes" },
+    "3": { name: "Explicit archive", link: "https://telegram.me/joinchat/AAAAAEQRBwcHqlrq977gkg" },
+    "4": { name: "Double Penetration", link: "https://telegram.me/joinchat/COmq5d2L148zNjY0" },
+    "5": { name: "Beautiful Girls", link: "https://telegram.me/b_babes" },
+    "6": { name: "Naughty_America_premiumz", link: "https://telegram.me/Naughty_America_premiumz" },
+    "7": { name: "Delhi sex chat", link: "https://t.me/delhincrcucck" },
+    "8": { name: "𝙄𝙉𝘿𝙄𝘼𝙉 WIFE 𝙎𝙒𝘼𝙋𝙋𝙄𝙉𝙂 Chats", link: "https://t.me/real_swapping_wife_couple" },
+    "9": { name: "Gujarati Wife - Sex Chatting Group", link: "https://t.me/Gujarat_wife_swapping" },
+    "10": { name: "Desi girls- New + Active", link: "https://t.me/desisexygirl67" },
+    "11": { name: "Desi hot 🥵 video - Private VIP", link: "https://t.me/joinchat/xHC38ij5eyEyNjE9" },
+    "12": { name: "Reena Babhi 💋💋 - Private VIP", link: "https://t.me/joinchat/H4SqJZ8l3r9iNzc9" },
+    "13": { name: "Kannada chatting group", link: "https://t.me/kannada_chatting_group4" },
+    "14": { name: "Desi Village girls - Private VIP", link: "https://t.me/joinchat/0siPFAlpU6EyY2Nl" },
+    "15": { name: "HOT GIRLS 🫣", link: "https://t.me/girls_group_world" },
+    "16": { name: "Only Bangla Adult Videos", link: "https://t.me/onlybanglaadultvideos" },
+  };
+  return Object.values(data);
+};
 
 export const getChannels1000 = () => {
   const data = {
@@ -4090,6 +4139,7 @@ export const getChannels5000 = () => {
 
 
 export const SAMPLE_CHANNELS: Record<string, () => TelegramChannel[]> = {
+  "Demo": getDemoChannels,
   "1000": getChannels1000,
   "1500": getChannels1500,
   "2500": getChannels2500,
