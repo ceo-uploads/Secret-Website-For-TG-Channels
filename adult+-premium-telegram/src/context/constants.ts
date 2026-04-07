@@ -12,11 +12,11 @@ export const PACKAGES: Package[] = [
   { id: "3-W1", name: "Package 3-W1 (2500 Channels)", channels: 2500, priceBDT: 2500, durationDays: 7 },
   { id: "4-W1", name: "Package 4-W1 (5000 Channels)", channels: 5000, priceBDT: 4000, durationDays: 7 },
   // Lifetime
-  { id: "Lifetime", name: "Package Lifetime (5000 Channels)", channels: 5000, priceBDT: 122000, priceUSD: 1000, durationDays: 365000 },
+  { id: "Lifetime", name: "Package Lifetime (5000 Channels)", channels: 5000, priceBDT: 122000, priceUSD: 1000, durationDays: 36500 },
   // Demo 
-  { id: "Demo", name:"Package - Demo", channels: 15, priceBDT: 10, durationDays: 365000},
+  { id: "Demo", name:"Package - Demo", channels: 15, priceBDT: 10, durationDays: 36500 },
   // Trial
-  { id: "Trial", name:"Package - Trial", channels: 15, priceBDT: 10, durationDays: 1},
+  { id: "Trial", name:"Package - Trial", channels: 15, priceBDT: 10, durationDays: 1 },
 
 ];
 
